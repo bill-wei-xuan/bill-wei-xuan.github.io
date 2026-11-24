@@ -1,0 +1,8 @@
+# Source materials kept next to the site but never published
+/*.pdf
+/*.jpg
+/*.jpeg
+/*.png
+/*.heic
+*.docx
+.DS_Store
